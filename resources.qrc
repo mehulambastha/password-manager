@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>resources/icons/padlock_main.svg</file>
+    <file>resources/icons/add.svg</file>
+    <file>resources/icons/padlock.svg</file>
+    <file>resources/icons/magnifying-glass-search.png</file>
+    <file>resources/icons/data.png</file>
+    <file>resources/icons/exit.svg</file>
+    <file>resources/icons/user(1).png</file>
+    <file>resources/icons/reload.svg</file>
+    <file>resources/icons/trash.svg</file>
+    <file>resources/icons/close_button.png</file>
+    <file>resources/fonts/BioRhyme-Regular.ttf</file>
+    <file>resources/fonts/Lobster-Regular.ttf</file>
+    <file>resources/fonts/Roboto-Medium.ttf</file>
+    <file>resources/fonts/Roboto-Regular.ttf</file>
+    <file>resources/fonts/BerkshireSwash-Regular.ttf</file>
+    <file>resources/fonts/Poppins-BoldItalic.ttf</file>
+    <file>resources/fonts/Poppins-SemiBold.ttf</file>
+    <file>resources/fonts/Poppins-Medium.ttf</file>
+    <file>resources/fonts/Poppins-SemiBoldItalic.ttf</file>
+    <file>resources/fonts/NotoSansJP-Medium.otf</file>
+  </qresource>
+</RCC>
